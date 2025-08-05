@@ -1,0 +1,7 @@
+
+{
+  "name": "GestorPro - Panel de Gestión Multi-usuario",
+  "description": "Un dashboard completo para gestionar proyectos y clientes, con un sistema de autenticación seguro basado en tokens y una arquitectura multi-inquilino donde cada usuario tiene su propia base de datos aislada en Google Sheets. La creación y gestión de usuarios se automatiza a través de Google Apps Script.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
